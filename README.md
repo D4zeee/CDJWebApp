@@ -1,27 +1,38 @@
-# CDJWebApp
-CDJ is an auto parts business that provides quality parts and accessories to its customers. This web application is specifically designed for CDJ’s Inventory and Sales, enabling the business to efficiently manage stock, track sales transactions, and streamline operations.
+# 🚗 CDJ Inventory and Sales Web Application
 
-# Tech Stack:
-# Backend: Springboot
-# Frontend: React + Next.js + shadcn.ui
-# Database: Supabase
+**CDJ** is an auto parts business that provides quality parts and accessories to its customers.  
+This web application is designed to handle **Inventory and Sales Management**, enabling the business to efficiently manage stock, track transactions, and streamline operations.  
 
-# Features:
-# 🔐 Authentication & User Management
-# - Users can securely log in and log out of the system.
+---
 
-# 📦 Inventory Management
-# - Users can add, edit, and delete products in the inventory.
-# - Users can view and browse all products in the inventory.
-# - The system will notify users when a product is running low on stock (e.g., warning when stock reaches 10 or less).
+## 🛠 Tech Stack
 
-# 💰 Sales & Transactions
-# - Users can create sales transactions.
-# - A provisional receipt will be generated after a successful transaction.
+- **Backend:** [Spring Boot](https://spring.io/projects/spring-boot)  
+- **Frontend:** [React](https://react.dev/) + [Next.js](https://nextjs.org/) + [shadcn/ui](https://ui.shadcn.com/)  
+- **Database:** [Supabase](https://supabase.com/)  
 
-# 📊 Reporting & Records
-# - Users can view sales reports by day, week, month, or year.
-# - Users can print a PDF copy of a provisional receipt for any transaction.
-# - Users can print a PDF copy of the inventory records.
-# - Users can print a PDF copy of the transaction records.
+---
+
+## ✨ Features
+
+### 🔐 Authentication & User Management
+- Secure user login and logout.
+
+### 📦 Inventory Management
+- Add, edit, and delete products in the inventory.  
+- View and browse all available products.  
+- Get notifications when stock is running low (e.g., warning when stock reaches 10 or less).  
+
+### 💰 Sales & Transactions
+- Create and process sales transactions.  
+- Automatically generate a provisional receipt after a successful transaction.  
+
+### 📊 Reporting & Records
+- View sales reports by **day, week, month, or year**.  
+- Print PDF copies of:  
+  - Provisional receipts  
+  - Inventory records  
+  - Transaction records  
+
+---
 
