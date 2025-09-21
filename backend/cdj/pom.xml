@@ -8,10 +8,10 @@
 		<version>3.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cdj</groupId>
-	<artifactId>cdj-backend</artifactId>
+	<groupId>com.webapp</groupId>
+	<artifactId>cdj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cdj-backend</name>
+	<name>cdj</name>
 	<description>CDJ Inventory &amp; Sales Backend</description>
 	<url/>
 	<licenses>

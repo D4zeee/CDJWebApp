@@ -1,10 +1,10 @@
-package com.cdj_backend;
+package com.webapp.cdj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CdjBackendApplicationTests {
+class CdjApplicationTests {
 
 	@Test
 	void contextLoads() {
